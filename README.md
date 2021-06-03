@@ -1,4 +1,4 @@
-# spring-parent
+# spring-parent  不错 可研究
 ### maven父pom和子pom的版本号批量修改
 
 ##### 1 设置新的版本号
